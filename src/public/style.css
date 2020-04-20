@@ -1,0 +1,13 @@
+.special{
+    background: #09f;
+    color:#fff;
+    }
+    .one{
+    background:#090;
+    }
+    body{
+        background: url(./../img/timg.jpg);
+        font-size: 20px;
+        font-weight: bold;
+    }
+    
